@@ -6,7 +6,11 @@
   <b>Starblast modder • Discord staff • Game mechanic designer • Future agronomy engineer</b>  
 </p>
 
+<br>
+
 ---
+
+<br>
 
 ## 🚀 My Featured Projects
 | Project | Description |
@@ -17,6 +21,7 @@
 | [**Alien Speed Run**](https://github.com/TheGreatMegalodon/Alien-Speedrun) | Fast-paced time trial challenge in the Starblast universe. | Alien Speed Run |
 | [**Starblast Testing Area**](https://github.com/TheGreatMegalodon/Megs-codes-snippets/blob/main/files/starblastMods/Megs_STA.js) | Sandbox environment for experiments and mechanics testing. |
 
+<br>
 
 ## 🛠 Tech Stack & Tools
 <p align="center">
@@ -32,6 +37,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
+<br>
 
 ## 📫 Contact Me
 <p align="center">
