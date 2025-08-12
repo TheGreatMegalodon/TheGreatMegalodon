@@ -46,4 +46,6 @@
   <a href="https://discord.com/users/.megaloon"><img src="https://img.shields.io/badge/Discord-TheGreatMegalodon-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://github.com/TheGreatMegalodon"><img src="https://img.shields.io/badge/GitHub-TheGreatMegalodon-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-![MasterHead](https://discord.c99.nl/widget/theme-1/374916657639981056.png)
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-1/374916657639981056.png" alt="Discord Banner" />
+</p>
