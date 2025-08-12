@@ -18,8 +18,8 @@
 | [**Starblast Asteroid War**](https://github.com/TheGreatMegalodon/Starblast-Asteroid-War-public) | Large-scale battle mode with asteroid-based strategy. |
 | **Juggernaut** | Dynamic role-changing gameplay with custom UI and capture mechanics. |
 | [**Meg's Dueling**](https://github.com/TheGreatMegalodon/Megalodon-s-dueling-code) | Competitive 1v1 dueling mode, currently in remastered development. |
-| [**Alien Speed Run**](https://github.com/TheGreatMegalodon/Alien-Speedrun) | Fast-paced time trial challenge in the Starblast universe. | Alien Speed Run |
-| [**Starblast Testing Area**](https://github.com/TheGreatMegalodon/Megs-codes-snippets/blob/main/files/starblastMods/Megs_STA.js) | Sandbox environment for experiments and mechanics testing. |
+| [**Alien Speed Run**](https://github.com/TheGreatMegalodon/Alien-Speedrun) | Fast-paced time challenge in Starblast with aliens. | Alien Speed Run |
+| [**Starblast Testing Area**](https://github.com/TheGreatMegalodon/Megs-codes-snippets/blob/main/files/starblastMods/Megs_STA.js) | Sandbox environment for experiments and ships testing. |
 
 <br>
 
