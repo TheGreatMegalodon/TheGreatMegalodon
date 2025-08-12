@@ -6,6 +6,7 @@
   <b>Starblast modder • Discord staff • Game mechanic designer • Future agronomy engineer</b>  
 </p>
 
+--
 
 ## 🚀 My Featured Projects
 | Project | Description |
