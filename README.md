@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=54&letterSpacing=5px&duration=500&pause=5000&color=338DDF&center=true&vCenter=true&multiline=true&repeat=false&height=100&lines=Megalodon)](https://git.io/typing-svg)
+<div style="display: flex; width: 100%; align-items: venter;">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=54&letterSpacing=5px&duration=500&pause=5000&color=338DDF&center=true&vCenter=true&multiline=true&repeat=false&height=100&lines=Megalodon" alt="Typing SVG" /></a>
+</div>
 
 <p align="center">
   <b>Starblast modder • Discord staff • Game mechanic designer • Future agronomy engineer</b>  
