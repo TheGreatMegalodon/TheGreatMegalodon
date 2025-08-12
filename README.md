@@ -24,7 +24,7 @@
 <br>
 
 ## 🛠 Tech Stack & Tools
-<p align="center">
+<p align="start">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -40,7 +40,7 @@
 <br>
 
 ## 📫 Contact Me
-<p align="center">
+<p align="start">
   <a href="https://discord.com/users/.megaloon"><img src="https://img.shields.io/badge/Discord-TheGreatMegalodon-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://github.com/TheGreatMegalodon"><img src="https://img.shields.io/badge/GitHub-TheGreatMegalodon-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
