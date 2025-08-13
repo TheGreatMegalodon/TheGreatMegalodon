@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=TheGreatMegalodon&style=for-the-badge&color=005cb9&label=Profile+Views) 
+  !(https://komarev.com/ghpvc/?username=TheGreatMegalodon&style=for-the-badge&color=005cb9&label=Profile+Views) 
 </p>
 
 <br>
