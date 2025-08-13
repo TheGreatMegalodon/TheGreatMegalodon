@@ -8,7 +8,7 @@
 
 <br>
 
----
+![](https://komarev.com/ghpvc/?username=TheGreatMegalodon&style=for-the-badge&color=005cb9&label=Profile+Views)
 
 <br>
 
