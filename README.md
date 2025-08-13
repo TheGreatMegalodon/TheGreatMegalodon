@@ -39,7 +39,7 @@
 
 <br>
 
-## 📫 Contact Me & Stats
+## 📫 Contact & Stats
 ![](https://komarev.com/ghpvc/?username=TheGreatMegalodon&style=for-the-badge&color=715ff5&label=Profile+Views&abbreviated=true&base=1200) 
 <p>
   <a href="https://discord.com/users/.megaloon"><img src="https://img.shields.io/badge/Discord-.megalodon-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
